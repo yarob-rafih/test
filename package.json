@@ -1,0 +1,17 @@
+{
+  "name": "cityOfCalgary",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "csvtojson" : "*",
+    "request": "*",
+    "mysql": "*",
+    "morgan": "*",
+    "winston": "*",
+    "cron": "*"
+  }
+}
